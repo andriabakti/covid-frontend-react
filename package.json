@@ -9,7 +9,9 @@
     "axios": "^0.20.0",
     "bootstrap": "^4.5.2",
     "chart.js": "^2.9.3",
+    "moment": "^2.29.0",
     "react": "^16.13.1",
+    "react-chartjs-2": "^2.10.0",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3"

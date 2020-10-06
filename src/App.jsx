@@ -12,8 +12,8 @@ function App() {
     <Navbar/>
       <Switch>
         <Route path="/" exact component={Home}/>
-        <Route path="/countries/:country" component={Detail}/>
         <Route path="/about" component={About}/>
+        <Route path="/countries/:country" component={Detail}/>
       </Switch>
     </BrowserRouter>
   );
